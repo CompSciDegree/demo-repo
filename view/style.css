@@ -1,0 +1,11 @@
+.main-container, .wrapper-container {
+    display: flex;
+}
+
+.main-container {
+    flex-direction: row;
+}
+
+.wrapper-container {
+    flex-flow: row wrap;
+}
